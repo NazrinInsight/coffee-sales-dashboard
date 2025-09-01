@@ -9,12 +9,11 @@ The project includes **data preprocessing**, **custom measures**, and **visual s
 
 The dataset was originally provided in **CSV format**. Before building the dashboard, a few preprocessing steps were applied:
 
-1. **Removed unnecessary column**:  
+ **Removed unnecessary column**:  
    - The `cash_type` column contained the same value (`card`) for all rows.  
    - Since it did not provide meaningful insights, the column was deleted.
 
-2. **Sorted data (Ascending Order)**:  
-   - The dataset was sorted to ensure clarity and consistency.
+
 <img width="1254" height="774" alt="csv" src="https://github.com/user-attachments/assets/7dfe23fe-da0b-474d-bfb8-6f80059d3f83" />
 
 
